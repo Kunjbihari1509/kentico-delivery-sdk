@@ -9,8 +9,7 @@
         "headless",
         "cms",
         "kentico",
-        "kentico-kontent",
-        "headless-cms"
+        "kentico-kontent"
     ],
     "homepage": "https://kontent.ai/",
     "authors": [
